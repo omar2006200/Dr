@@ -1,0 +1,3 @@
+VERSION=1.2.6
+SCRIPT=https://yourname.pages.dev/remote.lua
+HASH=0AC82FF93215AA1C9DD0C1EA20C55062
