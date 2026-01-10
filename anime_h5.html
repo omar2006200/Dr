@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-
 <title>Anime UI</title>
 
 <style>
@@ -97,13 +96,13 @@ h1{
   <div id="main">
     <h1>لوحة التحكم</h1>
 
+    <!-- كل div يجب أن يحتوي على onclick مع الاستدعاء الصحيح -->
     <div class="btn" onclick="A.invoke()">功能A</div>
-    <div class="btn" onclick="B.Double(123.45)">功能B</div>
-    <div class="btn" onclick="C.Long(999)">功能C</div>
+    <div class="btn" onclick="B.Double(123.0)">功能B</div>
+    <div class="btn" onclick="C.Long(123)">功能C</div>
     <div class="btn" onclick="D.Bool(true)">功能D</div>
     <div class="btn" onclick="E.string('hello WSG')">功能E</div>
     <div class="btn" onclick="F.string(JSON.stringify(['123',456,'七八九',true]))">功能F</div>
-
     <div class="btn exit" onclick="Exit.invoke()">退出</div>
   </div>
 </div>
