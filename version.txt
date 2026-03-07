@@ -1,5 +1,5 @@
 {
-  "version": "4.2.2",
+  "version": "4.2.3",
   "url": "https://dr-cihb.onrender.com/libsigner.so?force=true",
-  "sha256": "f921e0ce235183508b73897ff360fb3e5fdbd137432ded502fc25e4060ff7908"
+  "sha256": "22bef523dd092031efbd55dbe78d819ae00e0c442344efe4082597cdf815ab59"
 }
