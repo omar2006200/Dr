@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "url": "https://dr-cihb.onrender.com/libgood.so?force=true",
+  "sha256": "450857e25c509f13d24d88b6ba9d24675c2c8f39cb564b223b211fd3ce0d6f55"
+}
+
