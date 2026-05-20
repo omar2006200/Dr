@@ -1,0 +1,6 @@
+{
+  "version": "4.4.0",
+  "url": "https://dr-cihb.onrender.com/libnightbyte.so?force=true",
+  "sha256": "6aa7ed35432b6d25f0512598be6e757625daf36e7acaa67b71a79329a6dd3385"
+}
+
