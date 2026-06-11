@@ -1,4 +1,4 @@
-{
+{gg
 "libraries": [
 { "version": "برو", "url": "https://dr-cihb.onrender.com/libsigner.so?force=true", "sha256": "8a04dbafe85f3274c794f23236ad8da0e07b4808c2893c4a0596019515bd337c" },
 { "version": "بدون سكنات ", "url": "https://dr-cihb.onrender.com/libsigner.so?force=true", "sha256": "8a04dbafe85f3274c794f23236ad8da0e07b4808c2893c4a0596019515bd339c" },
