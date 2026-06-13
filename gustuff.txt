@@ -1,6 +1,6 @@
 {
 "libraries": [
-{ "version": "برو", "url": "", "sha256": "6c6e5c0684ed5a0fbf1f36540601be5d7a5586ab1881dc17313f227a6d7f9cf9" },
+{ "version": "برو", "url": "https://dr-cihb.onrender.com/64/test/libsigner.so?force=true", "sha256": "873d3fd19a541e3924022136f544a27e8a012645a763d02b3646efbc93ccc58d" },
 { "version": "قياسية", "url": "https://dr-cihb.onrender.com/64/STA/libsigner.so?force=true", "sha256": "fe012df8ae99af0370dc605b7e824b78b60de1e210df633f903a494a31b3e470" }
 ]
 }
