@@ -1,6 +1,0 @@
-{
-"libraries": [
-{ "version": "", "url": "", "sha256": "" },
-{ "version": "قياسية", "url": "https://dr-cihb.onrender.com/64/STA/libsigner.so?force=true", "sha256": "058160089ed483978854542acce6dd5e54fca279b9984758f4c8bd863d6ea3bb" }
-]
-}
