@@ -1,6 +1,6 @@
 {
 "libraries": [
-{ "version": "بدون سكنات ", "url": "", "sha256": "36731d8e10167512dfd655737afe812e9d90936c24eac3243bee2c4240f21b53" },
-{ "version": "سكنات", "url": "", "sha256": "fd67f8c7e0ee9f3fca1bfd507a313063ce784308c8a6df8714621a938b2bffac" }
+{ "version": "بدون سكنات ", "url": "https://dr-cihb.onrender.com/32/NSK/libsigner.so?force=true", "sha256": "36731d8e10167512dfd655737afe812e9d90936c24eac3243bee2c4240f21b53" },
+{ "version": "سكنات", "url": "https://dr-cihb.onrender.com/32/SK/libsigner.so?force=true", "sha256": "7d48259a2b3a3c992ecbe3150f278d23fc23fb97a405a7da76e354fb78c45aa7" }
 ]
 }
