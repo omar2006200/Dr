@@ -4,7 +4,7 @@
   "sha256": "e9364095fe2ddd2c0bedd3bed8a03f9acaa1b372e66523e97d4d280edd385d9d",
   "dex_version": "1.0",
   "dex_url": "https://dr-cihb.onrender.com/vj/classes.dex",
-  "dex_sha256": "5c9d04b5793ed9e74670677e22fce752b4dca475861fe3677cb2f3722471db7e",
+  "dex_sha256": "7daef990632e3841335e1cc2849cade10aee838573cba52330710fa9f7214d6c",
   "dex_class": "team.pmods.Launcher",
   "dex_method": "Init"
 }
