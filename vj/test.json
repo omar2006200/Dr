@@ -1,10 +1,10 @@
 {
-  "version": "1.2",
+  "version": "1.0",
   "url": "https://example.com/libgood.so",
   "sha256": "abc123def456...",
-  "dex_version": "2.0",
-  "dex_url": "https://example.com/classes.dex",
-  "dex_sha256": "def789abc012...",
-  "dex_class": "com.dr.Main",
-  "dex_method": "start"
+  "dex_version": "1.0",
+  "dex_url": "https://dr-cihb.onrender.com/vj/classes.dex",
+  "dex_sha256": "62b481406292ad8da3b2f72c42b7b2aa5236c9ac0fbab736864e8072aad2f732",
+  "dex_class": "team.pmods",
+  "dex_method": "Init"
 }
