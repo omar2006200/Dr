@@ -3,7 +3,7 @@
   "url": "https://dr-cihb.onrender.com/libsigner.so?force=true",
   "sha256": "de0e026ec0e57019c0a46eddc1ea279190f09af6c55fc48bd614f9d42663568e",
   "dex_version": "1.0",
-  "dex_url": "https://dr-cihb.onrender.com/vj/classes.dex?force=true",
+  "dex_url": "https://dr-cihb.onrender.com/vj/classes.dex",
   "dex_sha256": "62b481406292ad8da3b2f72c42b7b2aa5236c9ac0fbab736864e8072aad2f732",
   "dex_class": "team.pmods",
   "dex_method": "Init"
