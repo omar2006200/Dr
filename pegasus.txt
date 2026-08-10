@@ -1,17 +1,17 @@
 {
   "libraries": [
     {
-      "version": "تشغيل",
-      "url": "https://dr-cihb.onrender.com/32/NSK/libsigner.so?force=true",
-      "sha256": "0469e20998b01aee46f166b5203722cd362796e744ef3bf7b7319a8b260aa0f6",
+      "version": "سكنات",
+      "url": "https://dr-cihb.onrender.com/32/SK/libsigner.so?force=true",
+      "sha256": "9459ded3bc26e8c6c8c0e80ecb53af16f899984127fe3203bd7290c09e98aa60",
       "sound_url": "https://distributors-yiv4.onrender.com/mixkit-hip-hop-02-738.mp3?force=true",
       "sound_name": "mixkit-hip-hop-02-738.mp3",
       "sound_sha256": "4b7bc45aedd38bf43e67d550177aeaafa367ec32a3a6498f8ffd9ec5132e268e"
     },
     {
-      "version": "تشغيل",
+      "version": "بدون سكنات",
       "url": "https://dr-cihb.onrender.com/32/NSK/libsigner.so?force=true",
-      "sha256": "0469e20998b01aee46f166b5203722cd362796e744ef3bf7b7319a8b260aa0f6",
+      "sha256": "e7f48734530d32eca621ac6c91b8fef85f8158c0a7acd317cf97dcb4619b6cbf",
       "sound_url": "https://distributors-yiv4.onrender.com/mixkit-hip-hop-02-738.mp3?force=true",
       "sound_name": "mixkit-hip-hop-02-738.mp3",
       "sound_sha256": "4b7bc45aedd38bf43e67d550177aeaafa367ec32a3a6498f8ffd9ec5132e268e"
