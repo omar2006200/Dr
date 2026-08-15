@@ -3,7 +3,7 @@
     {
       "version": "بدون سكنات",
       "url": "https://dr-a57.pages.dev/32/NSK/libsigner.so?force=true",
-      "sha256": "e7f48734530d32eca621ac6c91b8fef85f8158c0a7acd317cf97dcb4619b6cbf",
+      "sha256": "6e3160feebb47be7a6c59d5e32886e76cb866bca948b68790b47bb89777d59a0",
       "sound_url": "https://dr-a57.pages.dev/md.mp3?force=true",
       "sound_name": "md.mp3",
       "sound_sha256": "77576b41195140314e098819ded47430cf4efba3d2bff7f9415940e4923dc23d"
