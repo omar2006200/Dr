@@ -6,7 +6,7 @@
       "sha256": "57876ca39f9545d1c6d6419141b494cfc58db36d18068865b46639d10c4f0212",
       "sound_url": "https://dr-a57.pages.dev/md.mp3?force=true",
       "sound_name": "md.mp3",
-      "sound_sha256": "77576b41195140314e098819ded47430cf4efba3d2bff7f9415940e4923dc23d"
+      "sound_sha256": "1d33de04b0d9dd66ea684d90014c51f62225c4bd3799c38affdf7036491a4df4"
     },
     {
       "version": "بدون سكنات",
@@ -14,7 +14,7 @@
       "sha256": "6e3160feebb47be7a6c59d5e32886e76cb866bca948b68790b47bb89777d59a0",
       "sound_url": "https://dr-a57.pages.dev/md.mp3?force=true",
       "sound_name": "md.mp3",
-      "sound_sha256": "77576b41195140314e098819ded47430cf4efba3d2bff7f9415940e4923dc23d"
+      "sound_sha256": "1d33de04b0d9dd66ea684d90014c51f62225c4bd3799c38affdf7036491a4df4"
     },
     {
       "version": "سكنات",
@@ -22,7 +22,7 @@
       "sha256": "9459ded3bc26e8c6c8c0e80ecb53af16f899984127fe3203bd7290c09e98aa60",
       "sound_url": "https://dr-a57.pages.dev/md.mp3?force=true",
       "sound_name": "md.mp3",
-      "sound_sha256": "77576b41195140314e098819ded47430cf4efba3d2bff7f9415940e4923dc23d"
+      "sound_sha256": "1d33de04b0d9dd66ea684d90014c51f62225c4bd3799c38affdf7036491a4df4"
     }
   ]
 }
