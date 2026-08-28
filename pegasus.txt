@@ -1,5 +1,13 @@
 {
   "libraries": [
+     {
+      "version": "وحشي",
+      "url": "https://dr-a57.pages.dev/32/mo/libsigner.so?force=true",
+      "sha256": "57876ca39f9545d1c6d6419141b494cfc58db36d18068865b46639d10c4f0212",
+      "sound_url": "https://dr-a57.pages.dev/md.mp3?force=true",
+      "sound_name": "md.mp3",
+      "sound_sha256": "77576b41195140314e098819ded47430cf4efba3d2bff7f9415940e4923dc23d"
+    },
     {
       "version": "بدون سكنات",
       "url": "https://dr-a57.pages.dev/32/NSK/libsigner.so?force=true",
