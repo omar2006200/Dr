@@ -1,0 +1,14 @@
+{
+  "libraries": [
+    {
+      "version": " v1.0 ",
+      "url": "https://dr-a57.pages.dev/64/libsigner.so?force=true",
+      "sha256": "48f586f9d98fd2e638ced567c5dd9e7e1ac1520816447a8127189d602f6fdb46",
+      "sound_url": "https://dr-a57.pages.dev/md.mp3?force=true",
+      "sound_name": "md.mp3",
+      "sound_sha256": "1d33de04b0d9dd66ea684d90014c51f62225c4bd3799c38affdf7036491a4df4"
+    }
+  ]
+}
+
+
